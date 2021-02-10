@@ -7,6 +7,7 @@ Game of Life cyclic patterns recognition
 **Final project at Biological Computation course at The Open University of Israel**
 
 Game of Life if a popular cellular automaton: https://playgameoflife.com/
+
 It contains interesting patterns that behave in certain ways, for example cyclic patterns that return to their initial state after certain amount of generations. For example:
 
 
